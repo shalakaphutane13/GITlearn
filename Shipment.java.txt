@@ -1,1 +1,5 @@
 Hello, This is my first git repository.
+
+Addes 5 more test cases.
+
+Adding 2 more test cases.
